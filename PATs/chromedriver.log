@@ -1,0 +1,12 @@
+[1221/174707:ERROR:automation_proxy.cc(389)] Channel error in AutomationProxy.
+[1221/175014:ERROR:automation_json_requests.cc(59)] JSON request failed: GetIndicesFromTab
+    with error: Could not find tab among current browser windows
+[1221/175014:ERROR:ipc_channel_win.cc(258)] pipe error: 109
+[1221/175014:ERROR:automation_proxy.cc(389)] Channel error in AutomationProxy.
+[1221/224445:ERROR:ipc_channel_win.cc(258)] pipe error: 109
+[1221/224445:ERROR:automation_json_requests.cc(59)] JSON request failed: GetIndicesFromTab
+    with error: Could not find tab among current browser windows
+[1221/224445:ERROR:automation_proxy.cc(389)] Channel error in AutomationProxy.
+[1221/224445:ERROR:automation_proxy.cc(389)] Channel error in AutomationProxy.
+[1221/224445:WARNING:webdriver_command.cc(56)] Command did not finish successfully: Chrome did not respond to 'WaitForAllTabsToStopLoading'. Elapsed time was 0 ms. Request details: ({"command":"WaitForAllTabsToStopLoading"}).
+[1221/230931:ERROR:automation_proxy.cc(389)] Channel error in AutomationProxy.
